@@ -3,20 +3,19 @@ an easy to use youtube to mp3 downloader
 
 dependances:
 
-python3.7
+  python3.7
 
-ffmpeg added to path (windows only)
+  ffmpeg added to path (windows only) or install ffmpeg for your linux distribution
 
-from pip:
-
-pafy
-youtube-dl
-pydub
+  import with pip:     
+    pafy
+    youtube-dl
+    pydub
 
 
 instructions:
 
-1) copy paste a url from youtube to links.txt in the following  akoloutho format:
+1) copy paste a url from youtube to links.txt in the following format:
 
   link1
   link2
