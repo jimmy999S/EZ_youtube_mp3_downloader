@@ -24,7 +24,10 @@ instructions:
   link n
 
 2) windows:
+    cd to the project folder and with the power shell run ytdl.py or use the exe
   
-  cd to the project folder and with the power shell run ytdl.py or use the exe
+   linux:
+      run the ytdl.py script with python3
+  
   
 3) delete the .webm lefovers
