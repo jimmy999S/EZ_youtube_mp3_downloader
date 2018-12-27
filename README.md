@@ -11,6 +11,11 @@ dependances:
     pafy
     youtube-dl
     pydub
+    
+    
+  !!!important!!!
+    on windows you may have to install https://support.microsoft.com/en-gb/help/2977003/the-latest-supported-visual-c-downloads
+    in order for the .exe to work
 
 
 instructions:
